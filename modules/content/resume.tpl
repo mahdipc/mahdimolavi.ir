@@ -37,6 +37,8 @@
                                         top universities in Iran. Tarbiat Modares University (TMU) is the only
                                         exclusively graduate university in Iran and was founded to train university
                                         professors.
+                                        <b> My Thesis is "Big Data Learning with Tensor Representation" by Supervisor
+                                            <a href="http://mrezghi.ir/" target="_blank">Dr Mansoor Rezghi</a></b>
                                     </p>
                                 </div>
                             </div>

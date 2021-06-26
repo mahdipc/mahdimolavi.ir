@@ -8,15 +8,12 @@
                 <li><i data-feather="tag" class="fea icon-sm mr-1"></i><a href="javascript:void(0)"
                         class="text-dark">{category}</a></li>
             </ul>
-            <h5 class="mb-3"><a href="page-blog-detail.html" class="title text-dark">{title}</a></h5>
+            <h5 class="mb-3"><a href="{full-link}" class="title text-dark">{title}</a></h5>
             <ul class="list-unstyled mb-0 pt-3 border-top d-flex justify-content-between">
                 <li><i class="mdi mdi-calendar-edit mr-1"></i>{date}</li>
-                <li><a href="javascript:void(0)" class="text-dark">Read More <i data-feather="chevron-right"
+                <li><a href="{full-link}" class="text-dark">Read More <i data-feather="chevron-right"
                             class="fea icon-sm"></i></a></li>
             </ul>
         </div>
-        <!--end content-->
     </div>
-    <!--end blog post-->
 </div>
-<!--end col-->

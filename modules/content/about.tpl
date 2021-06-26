@@ -169,7 +169,7 @@
                             <i data-feather="pen-tool" class="icon fea icon-md-sm"></i>
                         </div>
                         <div class="content">
-                            <h6 class="title mb-0">Teching</h6>
+                            <h6 class="title mb-0">Teaching</h6>
                         </div>
                     </div>
                 </div>
